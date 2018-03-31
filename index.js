@@ -15,5 +15,5 @@ let newID = 1000000000 + oldID,
     
     randomInteger = Math.floor(randomNumber),
     
-    randomUserID = randomInteger + 1000000000
+    randomUserID = randomInteger + 1000000000;
 
